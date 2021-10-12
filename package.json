@@ -1,5 +1,5 @@
 {
-  "name": "@cryptograph-app/error-handler",
+  "name": "@cryptograph-app/error-handlers",
   "version": "0.0.1-beta",
   "description": "error handling tools for cryptograph app",
   "main": "./build/index.js",
